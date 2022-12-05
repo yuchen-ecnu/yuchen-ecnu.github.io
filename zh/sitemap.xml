@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/about/</loc>
+    <loc>http://yuchen-ecnu.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>http://yuchen-ecnu.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/categories/"
+                href="http://yuchen-ecnu.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/categories/"
+                href="http://yuchen-ecnu.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost/series/</loc>
+    <loc>http://yuchen-ecnu.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/series/"
+                href="http://yuchen-ecnu.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/series/"
+                href="http://yuchen-ecnu.github.io/series/"
                 />
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>http://yuchen-ecnu.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/tags/"
+                href="http://yuchen-ecnu.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/tags/"
+                href="http://yuchen-ecnu.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>http://yuchen-ecnu.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/"
+                href="http://yuchen-ecnu.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/"
+                href="http://yuchen-ecnu.github.io/"
                 />
   </url>
 </urlset>
